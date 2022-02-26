@@ -229,3 +229,32 @@ section {
 .text-right {
   text-align: right;
 }
+
+/* Reach out section */
+.contact {
+  background-color: #024e76;
+  text-align: center;
+}
+
+.reach-out h2 {
+  color: #fce138;
+}
+
+.contact h2 {
+  color: #fce138;
+}
+
+.contact-info iframe {
+  width: 400px;
+  height: 400px;
+  padding-right: 40px;
+}
+
+.contact-info div {
+  width: 410px;
+  text-align: left;
+  vertical-align: top;
+  display: inline-block;
+  margin: 30px 0 0 60px;
+  color: white;
+}
