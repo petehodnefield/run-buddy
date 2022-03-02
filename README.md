@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Yaya
 
 ## Purpose
 A website that offers fitness training services.
