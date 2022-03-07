@@ -42,7 +42,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  margin: 0 30px;
+  padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -83,6 +83,7 @@ section {
   background-position: center;
   display: flex;
   justify-content: center;
+  align-items: flex-start;
   flex-wrap: nowrap;
 }
 
@@ -101,7 +102,7 @@ section {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .build-habits h2 {
@@ -146,7 +147,7 @@ section {
 /* Style the intro section*/
 
 .section-title {
-  font-size: 55px;
+  font-size: 48px;
   color: #024e76;
   padding-bottom: 20px;
   text-align: center;
@@ -353,3 +354,16 @@ section {
 /* REACH OUT STYLES END */
 
 /* Prvacy Policy Styles */
+/* Media queries for smaller desktop screens and smaller */
+@media screen and (max-width: 980px) {
+  
+  }
+}
+@media screen and (max-width: 768px) {
+  
+  }
+}
+@media screen and (max-width: 575px) {
+ 
+  }
+}
